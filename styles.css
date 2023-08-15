@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+    border-bottom: solid black;
+}
+.cell{
+    padding: 30px;
+    border: solid black;
+}
+.row{
+    display: flex;
+}
+.board{
+    margin: 40px auto 0;
+    width: fit-content;
+}
